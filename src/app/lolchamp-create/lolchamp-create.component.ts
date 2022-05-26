@@ -16,7 +16,7 @@ export class LolchampCreateComponent implements OnInit {
     difficulty:"",
     role:"",
     imageUrl:"",
-    dateCreated:new Date() // this defaults to the current date and time
+    dateCreated:new Date() // this defaults to the current date and time -
   }
 
   constructor(
